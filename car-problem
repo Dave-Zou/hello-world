@@ -6,4 +6,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-f = 
+x1 = xlrdopen_workbook("D:\D.xlsx") #打开表格文件
+
+print(x1.sheet_name())
+print(x1.sheets())
+print(x1.nsheets)
+print(x1.sheet_by_index(0))
+
+x =
