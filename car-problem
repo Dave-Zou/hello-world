@@ -1,0 +1,9 @@
+#汽车总装线配置问题
+#2018年全国大学生数学建模竞赛D题
+
+import xlrd
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+
+f = 
